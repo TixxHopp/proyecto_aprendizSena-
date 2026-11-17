@@ -1,0 +1,9 @@
+
+@import './estilos.css';
+
+.site-header,
+.hero,
+.services,
+.site-footer {
+    width: 100%;
+}
